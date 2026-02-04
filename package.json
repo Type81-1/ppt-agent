@@ -1,0 +1,16 @@
+{
+  "name": "ppt-agent",
+  "version": "1.0.0",
+  "description": "AI-Powered Slide Generator",
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "^0.25.0",
+    "playwright-core": "^1.40.0"
+  },
+  "scripts": {
+    "install-deps": "npm install"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.58.1"
+  }
+}
